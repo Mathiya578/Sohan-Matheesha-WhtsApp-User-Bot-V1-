@@ -1,5 +1,5 @@
 {
-  "name": "Sohan-MD",
+  "name": "Sohan-Matheesha-WhtsApp-User-Bot-V1-",
   "version": "6.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
@@ -81,10 +81,10 @@
     "src": "src"
   },
   "devDependencies": {},
-  "repository": "git+https://github.com/Mathiya578/Sohan-Matheesha-WhtsApp-User-Bot-V1.git",
+  "repository": "git+https://github.com/Mathiya578/Sohan-Matheesha-WhtsApp-User-Bot-V1-.git",
   "bugs": {
-    "url": "https://github.com/Mathiya578/Sohan-Matheesha-WhtsApp-User-Bot-V1/issues"
+    "url": "https://github.com/Mathiya578/Sohan-Matheesha-WhtsApp-User-Bot-V1-/issues"
   },
-  "homepage": "https://github.com/Mathiya578/Sohan-Matheesha-WhtsApp-User-Bot-V1/#readme",
+  "homepage": "https://github.com/Mathiya578/Sohan-Matheesha-WhtsApp-User-Bot-V1-/#readme",
   "main": "index.js"
 }
